@@ -2,12 +2,12 @@
 
 This is the 2nd project I have completed under the mentorship of OUTSCAL.
 
-##DESIGN PATTERNS:
+## DESIGN PATTERNS:
 ● MVC Design Pattern(Fully customizable code architecture)
 ● State Machine for enemy
 ● Observer Pattern
 ● Achievement System
 ● AI Movement
 
-##Principles Used:
+## Principles Used:
 ●Single Responsibility Principle (SRP)
